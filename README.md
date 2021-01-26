@@ -1,6 +1,6 @@
 ### Hi there 👋
 Welcome to My Github Profile!!💻
-Gmail :kashifmehdi53@gmail.com
+ Gmail:kashifmehdi53@gmail.com
 
 <!--
 **kashifmehdi/kashifmehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
