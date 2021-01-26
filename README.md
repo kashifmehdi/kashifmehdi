@@ -1,6 +1,6 @@
 ### Hi there 👋
 Welcome to My Github Profile!!💻
-Gmail:kashifmehdi53@gmail.com 📧
+/Gmail:kashifmehdi53@gmail.com 📧
 
 
 
