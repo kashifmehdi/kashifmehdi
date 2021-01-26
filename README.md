@@ -2,6 +2,7 @@
 Welcome to My Github Profile!!💻
 Gmail:kashifmehdi53@gmail.com 📧
 [![Kashif github stats](https://github-readme-stats.vercel.app/api?username=kashifmehdi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kashifmehdi/kashifmehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
