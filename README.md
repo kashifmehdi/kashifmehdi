@@ -1,8 +1,8 @@
 # Hello there folks!👋
-First Header | Second Header
------------- | -------------
 Learner | Tech Enthusiast
-Content in the first column | Content in the second column
+------------ | -------------
+ \
+
 Welcome to My Github Profile!!💻 \
 [link to Gmail!](kashifmehdi53@gmail.com)📧
 # About me:
