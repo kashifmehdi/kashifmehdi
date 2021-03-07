@@ -1,5 +1,5 @@
-  # **Hello there folks!**👋
- **Learner | Tech Enthusiast**
+  #           Hello there folks!👋
+   **Learner | Tech Enthusiast**
 
 
 
