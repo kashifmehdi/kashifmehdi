@@ -1,7 +1,12 @@
-# Hi there 👋
+# Hello there folks!👋
+First Header | Second Header
+------------ | -------------
+Learner | Tech Enthusiast
+Content in the first column | Content in the second column
 Welcome to My Github Profile!!💻 \
-Gmail:kashifmehdi53@gmail.com 📧
-
+[link to Gmail!](kashifmehdi53@gmail.com)📧
+# About me:
+ 
 
 
 [![Kashif github stats](https://github-readme-stats.vercel.app/api?username=kashifmehdi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
