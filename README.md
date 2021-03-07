@@ -6,7 +6,7 @@ Gmail:kashifmehdi53@gmail.com 📧
 
 [![Kashif github stats](https://github-readme-stats.vercel.app/api?username=kashifmehdi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi)](https://github.com/anuraghazra/github-readme-stats)
 
