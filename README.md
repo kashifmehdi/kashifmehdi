@@ -1,7 +1,7 @@
   <h1 align="center">
   Hello,I'm Kashif!👋
   </h1>
-How to reach me:
+<h4 align="center"> How to reach me: </h4>
 <h3 align="center">  Tech Enthusiast | Learner </h3> <br>
 
 <p align="center"> 
