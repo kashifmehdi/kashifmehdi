@@ -2,7 +2,7 @@
   Hello there folks!👋
   </h1>
   <blockquote align="center"> <b><i>
-    **Learner | Tech Enthusiast**</i></b>
+    Learner | Tech Enthusiast</i></b>
 </blockquote>
 
    **Learner | Tech Enthusiast**
