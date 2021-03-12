@@ -24,7 +24,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kashifmehdi&show_icons=true&theme=radical" height= '150px'> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi" height ='150px'>
 </p>
-### ⚡ Technologies & Tools: 
+
+### Technologies & Tools: 
 
 <p>
 
