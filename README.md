@@ -19,8 +19,12 @@
 -  **Ask me about :** Still learning but will surely try to help you as much as possible 🤝
 -  **Fun fact :** I'm an introvert 🙂
 
-
-### ⚡ Technologies
+### Stats: 📊
+<p align ="Center">
+<img src="https://github-readme-stats.vercel.app/api?username=kashifmehdi&show_icons=true&theme=radical" height= '150px'> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi" height ='150px'>
+</p>
+### ⚡ Technologies & Tools: 
 
 <p>
 
@@ -43,10 +47,6 @@
 
  
 
-<p align ="Center">
-<img src="https://github-readme-stats.vercel.app/api?username=kashifmehdi&show_icons=true&theme=radical" height= '150px'> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi" height ='150px'>
-</p>
 
 <!--
 **kashifmehdi/kashifmehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
