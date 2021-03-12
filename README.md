@@ -42,8 +42,8 @@
  
 
 <p align ="Center">
-[![Kashif github stats](https://github-readme-stats.vercel.app/api?username=kashifmehdi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi)](https://github.com/anuraghazra/github-readme-stats)
+<img src="[![Kashif github stats](https://github-readme-stats.vercel.app/api?username=kashifmehdi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)" height= '150px'> 
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi)](https://github.com/anuraghazra/github-readme-stats)" height ='150px'>
 </p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--
