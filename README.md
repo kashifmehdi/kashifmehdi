@@ -1,7 +1,7 @@
   <h1 align="center">
   Hello,I'm Kashif!👋
   </h1>
-
+How to reach me:
 <h3 align="center">  Tech Enthusiast | Learner </h3> <br>
 
 <p align="center"> 
@@ -47,7 +47,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kashifmehdi&show_icons=true&theme=radical" height= '150px'> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi" height ='150px'>
 </p>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <!--
 **kashifmehdi/kashifmehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
