@@ -1,5 +1,5 @@
   <h1 align="center">
-  Hello there folks!👋
+  Hello,I'm Kashif!👋
   </h1>
 
 <h3 align="center">  Tech Enthusiast | Learner </h3> <br>
@@ -11,7 +11,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### About 📖
+### About me: 📖
 
 -  **Working :**  Software development 💻
 -  **I’m currently learning :** Software development | Data science :👨‍💻
@@ -31,7 +31,7 @@
 <img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">&nbsp;
 <img width="4%" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">&nbsp;&nbsp;
 <img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">&nbsp;
-<img width="3.6%" src="https://raw.githubusercontent.com/kashifmehdi/kashifmehdi/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/css.svg">&nbsp;&nbsp;
+<img width="3.6%" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">&nbsp;&nbsp;
 <img width="6%" src="https://raw.githubusercontent.com/kashifmehdi/kashifmehdi/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/sass.svg">&nbsp;
 <img width="4%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">&nbsp;
 <img width="4%" src="https://raw.githubusercontent.com/kashifmehdi/kashifmehdi/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/cpp.svg">
