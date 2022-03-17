@@ -32,7 +32,6 @@
 <img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">&nbsp;&nbsp;
 <img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
 <img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">&nbsp;&nbsp;
 <img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">&nbsp;
 <img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&nbsp;&nbsp;
 <img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">&nbsp;
