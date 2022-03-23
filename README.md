@@ -1,13 +1,17 @@
- <h1 align="center">Hi 👋, I'm Kashif Mehdi</h1>
-<h3 align="center">A passionate technology enthusiast and software developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifmehdi&label=Profile%20views&color=0e75b6&style=flat" alt="kashifmehdi" /> </p>
+<h1 align="center">Hi 👋, I'm Kashif Mehdi</h1>
+<h3 align="center">A passionate technology enthusiast and software developer from India.⚙️</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashifmehdi" alt="kashifmehdi" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development with Flask**
+- 🔭 I’m currently working on **a Blog Website.**
+
+- 🌱 I’m currently learning **Web Development with Flask.👨‍💻**
+
+- 💬 Ask me about **Python,data Structures and other technical stuff will try my best to make you understand.🤷🏼‍♂️**
 
 - 📫 How to reach me **kashifmehdi53@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
