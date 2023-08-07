@@ -3,8 +3,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kashif+Mehdi;Nice+to+meet+you!&center=true&size=31">
   </a>
 </h1>
-<h3 align="center">A passionate technology enthusiast and software developer from India.⚙️</h3>
 
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-kashifmehdi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashifmehdi/)](https://www.linkedin.com/in/kashifmehdi/)
+[![Instagram Badge](https://img.shields.io/badge/-@kashif._.mehdi-green?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/kashif._.mehdi/)](https://www.instagram.com/kashif._.mehdi/)
+[![Gmail Badge](https://img.shields.io/badge/-zahidhussain909-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kashifmehdi53@gmail.com)](mailto:kashifmehdi53@gmail.com)
+![](https://komarev.com/ghpvc/?username=zahidhussain909&style=flat&color=828bed)
+
+</div>
+<br>
+<img align="center" alt="image" src="https://raw.githubusercontent.com/Zahid8/Zahid8/main/header.png" />
 - 👨🏽‍💻 I’m currently working on myself 
 - 🌱 I’m currently learning almost **`everything`**
 - 👯 I'm looking to collaborate on **`AI/ML`**
@@ -13,15 +22,10 @@
 - 🤔 I’m looking for help with how to excel in Competitive Programming
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: kashifmehdi53@gmail.com
-- ⚡ <samp>Fun fact: I like to procastinate.
+- ⚡ <samp>Fun fact: I like to procrastinate.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kashifmehdi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashifmehdi/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kashif-mehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kashif-mehdi" height="30" width="40" /></a>
-<a href="https://instagram.com/kashif._.mehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kashif._.mehdi" height="30" width="40" /></a>
-</p>
+
 <!--<details>
   <summary><b>Overall Github Stats</b></summary>
   <a href="https://github.com/kashifmehdi/"><img align="center" title="Kashif Mehdi's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zahid8&count_private=true&show_icons=true" /></a>
