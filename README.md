@@ -23,7 +23,8 @@
   <a href="https://github.com/kashifmehdi/"><img align="center" title="Kashif Mehdi's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zahid8&count_private=true&show_icons=true" /></a>
 </details> -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kashif&show_icons=true&theme=gotham" alt="Zahid8" />
-### **Languages and Tools:**  
+
+  ### **Languages and Tools:**  
 <p>
   
   <img alt="github actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
