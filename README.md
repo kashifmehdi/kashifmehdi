@@ -8,7 +8,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-kashifmehdi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashifmehdi/)](https://www.linkedin.com/in/kashifmehdi/)
 [![Instagram Badge](https://img.shields.io/badge/-@kashif._.mehdi-green?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/kashif._.mehdi/)](https://www.instagram.com/kashif._.mehdi/)
-[![Gmail Badge](https://img.shields.io/badge/-zahidhussain909-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kashifmehdi53@gmail.com)](mailto:kashifmehdi53@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kashifmehdi53-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kashifmehdi53@gmail.com)](mailto:kashifmehdi53@gmail.com)
 ![](https://komarev.com/ghpvc/?username=zahidhussain909&style=flat&color=828bed)
 
 </div>
