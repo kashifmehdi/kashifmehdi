@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Kashif Mehdi</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kashif+Mehdi;Nice+to+meet+you!&center=true&size=31">
+  </a>
+</h1>
 <h3 align="center">A passionate technology enthusiast and software developer from India.⚙️</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashifmehdi" alt="kashifmehdi" /></a> </p>
-
-- 🔭 I’m currently working on **a Blog Website.**
-
-- 🌱 I’m currently learning **Web Development with Flask.👨‍💻**
-
-- 💬 Ask me about **Python, Data Structures and other technical stuff will try my best to make you understand.🤷🏼‍♂️**
-
-- 📫 How to reach me **kashifmehdi53@gmail.com**
+- 👨🏽‍💻 I’m currently working on myself 
+- 🌱 I’m currently learning almost **`everything`**
+- 👯 I'm looking to collaborate on **`AI/ML`**
+- 👷 Completed B.Tech in Computer Science Engineering(2019-2023) 
+- 💼 I’m looking for **Internship** Opportunities/roles.
+- 🤔 I’m looking for help with how to excel in Competitive Programming
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: kashifmehdi53@gmail.com
+- ⚡ <samp>Fun fact: I like to procastinate.
 
 
 <h3 align="left">Connect with me:</h3>
