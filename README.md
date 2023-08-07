@@ -14,6 +14,8 @@
 </div>
 <br>
 <img align="center" alt="image" src="https://raw.githubusercontent.com/Zahid8/Zahid8/main/header.png" />
+
+  ### **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on myself 
 - 🌱 I’m currently learning almost **`everything`**
 - 👯 I'm looking to collaborate on **`AI/ML`**
