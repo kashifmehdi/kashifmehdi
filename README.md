@@ -12,8 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=kashifmehdi53&style=flat&color=828bed)
 
 </div>
-<br>
-<img align="center" alt="image" src="https://raw.githubusercontent.com/kashifmehdi/kashifmehdi/main/header.png" />
+
 
 ### Greetings from the heart of India! 🇮🇳 I'm Kashif Mehdi, a code architect from the incredible landscapes of India! 🇮🇳
 
