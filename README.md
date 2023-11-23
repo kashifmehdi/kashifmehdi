@@ -14,6 +14,7 @@
 </div>
 <br>
 <img align="center" alt="image" src="https://raw.githubusercontent.com/kashifmehdi/kashifmehdi/main/header.png" />
+
 Greetings from the heart of India! 🇮🇳 I'm Kashif Mehdi , a passionate developer and enthusiast in the intricate realms of machine learning and deep learning. When I'm not soaking up the vibrant energy of my surroundings, you'll find me immersed in the beautiful chaos of code, orchestrating digital symphonies and bringing ideas to life.
 
   ### **Talking about Personal Stuffs:**
@@ -23,9 +24,12 @@ Greetings from the heart of India! 🇮🇳 I'm Kashif Mehdi , a passionate deve
 - 👷 Completed B.Tech in Computer Science Engineering(2019-2023) 
 - 💼 I’m looking for **Internship** Opportunities/roles.
 - 🤔 I’m looking for help with how to excel in Competitive Programming
-- 💬 Ask me about anything, I am happy to help
+😊 The Joy of Coding:
+
+    Crafting elegant solutions isn't just a job; it's my happy place. Each bug conquered feels like a triumph, and every line of code is a stroke of joy.
+    In the world of 1s and 0s, I find true happiness in building solutions that make a positive impact.
 - 📫 How to reach me: kashifmehdi53@gmail.com
-- ⚡ <samp>Fun fact: I like to procrastinate.
+- ⚡ <samp>Fun fact: I'm fluent in Python and sarcasm. 💬😏
 
 
 
