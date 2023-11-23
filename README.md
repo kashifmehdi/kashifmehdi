@@ -11,9 +11,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-kashifmehdi53-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kashifmehdi53@gmail.com)](mailto:kashifmehdi53@gmail.com)
 ![](https://komarev.com/ghpvc/?username=zahidhussain909&style=flat&color=828bed)
 
-</div>
-<br>
-<img align="center" alt="image" src="https://raw.githubusercontent.com/kashifmehdi/kashifmehdi/main/header.png" />
 
 ### Greetings from the heart of India! 🇮🇳 I'm Kashif Mehdi, a code architect from the incredible landscapes of India! 🇮🇳
 
