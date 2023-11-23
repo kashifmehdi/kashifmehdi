@@ -9,8 +9,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-kashifmehdi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashifmehdi/)](https://www.linkedin.com/in/kashifmehdi/)
 [![Instagram Badge](https://img.shields.io/badge/-@kashif._.mehdi-green?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/kashif._.mehdi/)](https://www.instagram.com/kashif._.mehdi/)
 [![Gmail Badge](https://img.shields.io/badge/-kashifmehdi53-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kashifmehdi53@gmail.com)](mailto:kashifmehdi53@gmail.com)
-![](https://komarev.com/ghpvc/?username=zahidhussain909&style=flat&color=828bed)
+![](https://komarev.com/ghpvc/?username=kashifmehdi53&style=flat&color=828bed)
 
+</div>
+<br>
+<img align="center" alt="image" src="https://raw.githubusercontent.com/kashifmehdi/kashifmehdi/main/header.png" />
 
 ### Greetings from the heart of India! 🇮🇳 I'm Kashif Mehdi, a code architect from the incredible landscapes of India! 🇮🇳
 
@@ -48,7 +51,7 @@ Join me on this tech odyssey where algorithms meet masala chai, and every bug fi
   <summary><b>Overall Github Stats</b></summary>
   <a href="https://github.com/kashifmehdi/"><img align="center" title="Kashif Mehdi's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kashifmehdi&count_private=true&show_icons=true" /></a>
 </details> -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kashif&show_icons=true&theme=gotham" alt="Zahid8" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kashif&show_icons=true&theme=gotham" alt="kashifmehdi" />
 
   ### **Languages and Tools:**  
 <p>
@@ -62,7 +65,6 @@ Join me on this tech odyssey where algorithms meet masala chai, and every bug fi
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
   <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
