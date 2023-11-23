@@ -15,8 +15,6 @@
 <br>
 <img align="center" alt="image" src="https://raw.githubusercontent.com/kashifmehdi/kashifmehdi/main/header.png" />
 
-  Nestled in  When I'm not soaking up the vibrant energy of my surroundings, you'll find me immersed in the beautiful chaos of code, orchestrating digital symphonies and bringing ideas to life.
-
 ### Greetings from the heart of India! 🇮🇳 I'm Kashif Mehdi, a code architect from the incredible landscapes of India! 🇮🇳
 
 🚀 **About Me:**
@@ -32,7 +30,7 @@
 - The hum of the CPU fan is my favorite lullaby, and syntax errors are my daily puzzles.
 
 🎓 **Learning Journey:**
-- Armed with a degree in Computer Science Engineering, I'm constantly leveling up my skills, Hogwarts-style.
+- Armed with a degree in Computer Science Engineering, I'm constantly leveling up my skills, Tony Stark-style.
 
 🌈 **Off the Tech Trail:**
 - Finding joy in the colorful chaos of Indian festivals and the aromatic symphony of biryani pots.
