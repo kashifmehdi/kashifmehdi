@@ -15,6 +15,7 @@
 <br>
 <img align="center" alt="image" src="https://raw.githubusercontent.com/kashifmehdi/kashifmehdi/main/header.png" />
 Greetings from the heart of India! 🇮🇳 I'm Kashif Mehdi , a passionate developer and enthusiast in the intricate realms of machine learning and deep learning. When I'm not soaking up the vibrant energy of my surroundings, you'll find me immersed in the beautiful chaos of code, orchestrating digital symphonies and bringing ideas to life.
+
   ### **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on myself 
 - 🌱 I’m currently learning almost **`everything`**
