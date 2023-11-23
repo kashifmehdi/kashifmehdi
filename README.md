@@ -14,7 +14,7 @@
 </div>
 <br>
 <img align="center" alt="image" src="https://raw.githubusercontent.com/kashifmehdi/kashifmehdi/main/header.png" />
-
+Greetings from the heart of India! 🇮🇳 I'm Kashif Mehdi , a passionate developer and enthusiast in the intricate realms of machine learning and deep learning. When I'm not soaking up the vibrant energy of my surroundings, you'll find me immersed in the beautiful chaos of code, orchestrating digital symphonies and bringing ideas to life.
   ### **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on myself 
 - 🌱 I’m currently learning almost **`everything`**
@@ -30,7 +30,7 @@
 
 <!--<details>
   <summary><b>Overall Github Stats</b></summary>
-  <a href="https://github.com/kashifmehdi/"><img align="center" title="Kashif Mehdi's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zahid8&count_private=true&show_icons=true" /></a>
+  <a href="https://github.com/kashifmehdi/"><img align="center" title="Kashif Mehdi's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kashifmehdi&count_private=true&show_icons=true" /></a>
 </details> -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kashif&show_icons=true&theme=gotham" alt="Zahid8" />
 
