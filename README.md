@@ -37,9 +37,9 @@
 - Balancing my coding highs with the tranquility of a yoga pose – gotta keep the mind and code flexible!
   
 💼 **Freelance Odyssey:**
-- Currently navigating the thrilling waters of freelancing like a code-powered pirate ship. 🏴‍☠️💻
+- Currently navigating the thrilling waters of freelancing like a code-powered chai enthusiast. ☕💻
 - Turning client dreams into digital reality – because who needs a genie when you've got a keyboard? ✨🧞
-- Accepting projects with open arms and a coffee mug; because every line of code is fueled by caffeine and client satisfaction! ☕💻
+- Accepting projects with open arms and a chai cup; because every line of code is fueled by the aromatic charm of chai and client satisfaction! 🍵💻
 
 Join me on this tech odyssey where algorithms meet masala chai, and every bug fix is a mini-celebration. Let's code our way through the digital curry of life! 🌐🍛
 
