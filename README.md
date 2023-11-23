@@ -30,7 +30,7 @@
 - The hum of the CPU fan is my favorite lullaby, and syntax errors are my daily puzzles.
 
 🎓 **Learning Journey:**
-- Armed with a degree in Computer Science Engineering, I'm constantly leveling up my skills, Tony Stark-style.
+- Armed with a degree in Computer Science Engineering, I'm constantly leveling up my skills, Tony Stark-style, refining my armor of coding prowess and innovation.
 
 🌈 **Off the Tech Trail:**
 - Finding joy in the colorful chaos of Indian festivals and the aromatic symphony of biryani pots.
