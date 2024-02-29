@@ -11,7 +11,10 @@
   
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kashif._.mehdi/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kashifmehdi)
-  [![Gmail Badge](https://img.shields.io/badge/-kashifmehdi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zahidhussain909@gmail.com)](mailto:kashifmehdi53@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-kashifmehdi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kashifmehdi53@gmail.com)](mailto:kashifmehdi53@gmail.com)
+  [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?styleflat&logo=LeetCode&logoColor=black)](https://www.leetcode.com/https://leetcode.com/kashifmehdi53/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/https://www.kaggle.com/kashifmehdi13)
+  [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~018c989c49e49ebcaa)
   ![](https://komarev.com/ghpvc/?username=kashifmehdi&style=flat&color=828bed)
   
 </div>
@@ -57,14 +60,6 @@
     <li>Accepting projects with open arms and a chai cup; because every line of code is fueled by the aromatic charm of chai and client satisfaction! 🍵💻</li>
 </ul>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/kashifmehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kashifmehdi" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/kashifmehdi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kashifmehdi13" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kashifmehdi53/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kashifmehdi53/" height="30" width="40" /></a>
-</p>
 
 # 💻 Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
