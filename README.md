@@ -16,8 +16,12 @@
   
 </div>
 
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img align="right" alt="coding" width= 400 src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
