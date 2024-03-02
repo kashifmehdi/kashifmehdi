@@ -80,7 +80,8 @@
 
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-      <a href="#"><img alt="Django" SRC ="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"></a> 
+      <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"></a> 
+      <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"></a>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white"></a>
@@ -112,8 +113,10 @@
 
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+     	<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white"></a>
       <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"></a>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+     	<a href="#"><img alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
@@ -124,21 +127,23 @@
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252"></a>
       <a href="#"><img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white"></a>
+     <a href="#"><img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+     	 <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"></a>
   </p>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kashifmehdi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kashifmehdi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+ <a href="#"><img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashifmehdi&theme=radical"></a>
+</p>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=kashifmehdi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kashifmehdi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kashifmehdi&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
