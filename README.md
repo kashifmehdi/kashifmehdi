@@ -142,8 +142,7 @@
 </p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kashifmehdi&theme=radical&hide_border=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi)](https://github.com/kashifmehdi/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi&size_weight=0.5&count_weight=0.5)
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kashifmehdi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
