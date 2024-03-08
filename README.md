@@ -1,4 +1,6 @@
-[![MasterHead](https://digitalmarketingtrends.in/wp-content/uploads/2018/04/Future-of-Machine-Learning-in-Digital-Marketing-Gif.gif)](https://kashifmehdi.io)
+<a href="https://kashifmehdi.io">
+  <img src="https://digitalmarketingtrends.in/wp-content/uploads/2018/04/Future-of-Machine-Learning-in-Digital-Marketing-Gif.gif" alt="MasterHead" style="max-width:100%;">
+</a>
 
 <!--# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm [Kashif!](https://github.com/kashifmehdi) -->
 <h1 align="center">
