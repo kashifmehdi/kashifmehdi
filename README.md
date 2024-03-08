@@ -141,8 +141,8 @@
  <a href="#"><img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashifmehdi&theme=radical"></a>
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kashifmehdi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kashifmehdi&theme=radical&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi)](https://github.com/kashifmehdi/github-readme-stats)
 
   
 ## 🏆 GitHub Trophies
